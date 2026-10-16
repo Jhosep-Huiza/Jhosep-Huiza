@@ -1,211 +1,114 @@
-<!--
+<div align="center">
 
-# Bienvenido a mi GITHUB 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Edgar%20Jhosep%20Huiza&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Estudiante%20de%20Ingenier%C3%ADa%20de%20Software%20con%20IA&descAlignY=58&descSize=18" alt="Banner" width="100%"/>
 
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Desarrollador+Web+%26+M%C3%B3vil;Laravel+%7C+Kotlin+%7C+Python;Proyectos+IoT+con+Arduino;Siempre+aprendiendo+%F0%9F%9A%80" alt="Typing SVG" />
 
-<!--
+<br/>
 
->>>>>>> a930d72024ebb667d8fc709e90084b585f0861da
-
-<!--**robertoBCV/robertoBCV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 🔭 I’m currently working on ...<br>
-
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ....
-
-- ⚡ Fun fact: ...
-
--->
-
-
-
-<div id="header" align="center">
-
- <h1>Bienvenido a mi GITHUB 👋</h1>
+![Ubicación](https://img.shields.io/badge/📍_Pucallpa,_Ucayali,_Perú-0f172a?style=for-the-badge)
+![Estudiante](https://img.shields.io/badge/🎓_Ing._de_Software_con_IA-2563eb?style=for-the-badge)
+![Visitas](https://komarev.com/ghpvc/?username=Jhosep-Huiza&label=Visitas&color=2563eb&style=for-the-badge)
 
 </div>
 
+---
 
+## 👨‍💻 Sobre mí
 
-![banner](github-banner.png)
+¡Hola! Soy **Jhosep** 👋, estudiante de Ingeniería de Software con IA. Me apasiona crear soluciones completas: desde aplicaciones web con bases de datos hasta apps móviles y prototipos de **IoT** con Arduino.
 
-<div id="header" align="center">
+- 🌐 Desarrollo web *full-stack* con **PHP, Laravel y MySQL**
+- 📱 Apps Android nativas con **Kotlin** y **Android Studio**
+- 🤖 Proyectos IoT con **Arduino**
+- 🐍 Automatización y herramientas con **Python**
+- 🎨 Diseño de interfaces limpias y modernas
+- 🌱 Aprendiendo constantemente nuevas tecnologías
 
- <h2>Lenguajes de programación</h2>
+---
 
+## 🛠️ Stack tecnológico
 
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
-<table align="center">
+### ⚙️ Backend y bases de datos
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
 
- <tr>
+### 📱 Desarrollo móvil
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
+</p>
 
-  <td align="center">
+### 🔌 IoT y electrónica
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+</p>
 
-   <a href="https://git-scm.com/">
+### 🧰 Herramientas
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+---
 
-   </a>
+## 🚀 Proyectos destacados
 
-  </td>
+> 💡 Reemplaza estos ejemplos con tus repositorios reales.
 
-  <td align="center">
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| 🔗 [Nombre del proyecto 1](https://github.com/Jhosep-Huiza/proyecto-1) | Sistema web con login, CRUD y panel administrativo | `Laravel` `MySQL` `JS` |
+| 🔗 [Nombre del proyecto 2](https://github.com/Jhosep-Huiza/proyecto-2) | Aplicación móvil Android con base de datos | `Kotlin` `Android Studio` |
+| 🔗 [Nombre del proyecto 3](https://github.com/Jhosep-Huiza/proyecto-3) | Prototipo IoT con sensores y monitoreo | `Arduino` `C++` |
 
-   <a href="https://www.oracle.com/java/">
+---
 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+## 📊 Estadísticas de GitHub
 
-   </a>
+<div align="center">
 
-  </td>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jhosep-Huiza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhosep-Huiza&layout=compact&theme=tokyonight&hide_border=true" alt="Top lenguajes"/>
 
-  <td align="center">
+<br/>
 
-   <a href="https://kotlinlang.org/">
-
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
-
-   </a>
-
-  </td>
-
-  <td align="center">
-
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-
-   </a>
-
-  </td>
-
-  <td align="center">
-
-   <a href="https://www.php.net/">
-
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-
-   </a>
-
-  </td>
-
-  <td align="center">
-
-   <a href="https://www.python.org/">
-
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-
-   </a>
-
-  </td>
-
-  <td align="center">
-
-   <a href="https://developer.apple.com/swift/">
-
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" />
-
-   </a>
-
-  </td>
-
- </tr>
-
-</table>
-
- 
-
- <!-- gifphy-->
-
- </p>
-
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDEycG5mbjkxN3d1azR6ZW94MHMyMDU5ZGJ4Z3JycGdwZmc5amlvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="200"/>
+<img src="https://streak-stats.demolab.com?user=Jhosep-Huiza&theme=tokyonight&hide_border=true" alt="Racha"/>
 
 </div>
 
+---
 
+## 📫 Contacto y redes
 
+<div align="center">
 
-
-
-
-<!-- Redes Sociales-->
-
-<div id="header" align="center">
-
- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-
- <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-
- <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
-
- <img src="https://img.shields.io/badge/tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="Twitter Badge"/>
-
- <img src="https://img.shields.io/badge/facebook-green?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+<a href="mailto:jhosephuiza480@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.facebook.com/TU-USUARIO"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.tiktok.com/@TU-USUARIO"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
 
 </div>
 
+---
 
+<div align="center">
 
-<div id="header" align="center">
+⭐ *Si algún proyecto te sirvió, ¡déjame una estrella!* ⭐
 
- <h2>Editores de código</h2>
-
- <p align="center">
-
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" />
-
-  </a>
-
- </p>
-
-</div>
-
-
-
-<div id="header" align="center">
-
- <h2>Lenguajes de maketado
-
- <p align="center">
-
- <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer">
-
- </a>
-
- </p>
-
-</div>
-
-   
-
-<div id="header" align="center">
-
- <h2>IoT<br></h2>
-
-  <p align="center">
-
-  <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" />
-
-  </a>
-
- </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
