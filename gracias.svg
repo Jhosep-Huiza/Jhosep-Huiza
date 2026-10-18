@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120" role="img" aria-label="Gracias por visitar">
+  <defs>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="120" fill="#0a0a0f"/>
+  <g font-family="Courier New, monospace" font-weight="bold" font-size="46" text-anchor="middle">
+    <text x="450" y="66" fill="#ff00ff" opacity=".85">GRACIAS POR VISITAR
+      <animate attributeName="x" values="450;450;444;456;450;450" keyTimes="0;.6;.62;.64;.66;1" dur="3s" repeatCount="indefinite"/>
+    </text>
+    <text x="450" y="66" fill="#00ffff" opacity=".85">GRACIAS POR VISITAR
+      <animate attributeName="x" values="450;450;456;444;450;450" keyTimes="0;.6;.62;.64;.66;1" dur="3s" repeatCount="indefinite"/>
+    </text>
+    <text x="450" y="66" fill="#ffffff" filter="url(#glow)">GRACIAS POR VISITAR
+      <animate attributeName="opacity" values="1;1;.4;1;.7;1;1" keyTimes="0;.5;.52;.54;.56;.58;1" dur="3s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <text x="450" y="100" text-anchor="middle" font-family="Courier New, monospace" font-size="14" fill="#39ff14" letter-spacing="3">&gt; sigue construyendo, sigue hackeando<tspan>_<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+</svg>
