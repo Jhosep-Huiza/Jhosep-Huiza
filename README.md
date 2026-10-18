@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Jhosep-Huiza/Jhosep-Huiza/main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/Jhosep-Huiza/Jhosep-Huiza/main/divider.svg" alt="" width="100%"/>
 
 ## 👨‍💻 Sobre mí
 
@@ -36,7 +36,7 @@
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Jhosep-Huiza/Jhosep-Huiza/main/assets/terminal.svg" alt="Terminal cyberpunk animada" width="100%"/>
+<img src="https://raw.githubusercontent.com/Jhosep-Huiza/Jhosep-Huiza/main/terminal.svg" alt="Terminal cyberpunk animada" width="100%"/>
 
 </td>
 </tr>
@@ -52,7 +52,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Jhosep-Huiza/Jhosep-Huiza/main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/Jhosep-Huiza/Jhosep-Huiza/main/divider.svg" alt="" width="100%"/>
 
 ## 🧠 Actualmente aprendiendo
 
@@ -81,7 +81,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Jhosep-Huiza/Jhosep-Huiza/main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://raw.githubusercontent.com/Jhosep-Huiza/Jhosep-Huiza/main/divider.svg" alt="" width="100%"/>
 
 ## 📊 Estadísticas de GitHub
 
@@ -117,7 +117,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Jhosep-Huiza/Jhosep-Huiza/main/assets/gracias.svg" alt="Gracias por visitar" width="100%"/>
+<img src="https://raw.githubusercontent.com/Jhosep-Huiza/Jhosep-Huiza/main/gracias.svg" alt="Gracias por visitar" width="100%"/>
 
 </div>
 
