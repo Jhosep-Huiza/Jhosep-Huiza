@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" width="360" height="240" role="img" aria-label="Terminal cyberpunk animada">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1.5" fill="#000" fill-opacity=".35"/>
+    </pattern>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00ffff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#00ffff" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#00ffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="scr"><rect x="10" y="38" width="340" height="192" rx="4"/></clipPath>
+  </defs>
+  <rect x="4" y="4" width="352" height="232" rx="10" fill="#0a0a0f" stroke="#00ffff" stroke-width="2" filter="url(#glow)">
+    <animate attributeName="stroke" values="#00ffff;#ff00ff;#00ffff" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M4 34V14a10 10 0 0 1 10-10h332a10 10 0 0 1 10 10v20z" fill="#111827"/>
+  <circle cx="22" cy="19" r="5" fill="#ff00ff"/>
+  <circle cx="40" cy="19" r="5" fill="#00ffff"/>
+  <circle cx="58" cy="19" r="5" fill="#39ff14"/>
+  <text x="200" y="23" fill="#94a3b8" font-family="Courier New, monospace" font-size="11" text-anchor="middle">jhosep@cyber:~</text>
+  <g font-family="Courier New, monospace" font-size="14" filter="url(#glow)">
+    <text x="22" y="70" fill="#39ff14">$ whoami<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.05;.06;.92;1" dur="12s" repeatCount="indefinite"/></text>
+    <text x="22" y="92" fill="#00ffff">&gt; Jhosep // Huiza<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.13;.14;.92;1" dur="12s" repeatCount="indefinite"/></text>
+    <text x="22" y="120" fill="#39ff14">$ cat rol.txt<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.25;.26;.92;1" dur="12s" repeatCount="indefinite"/></text>
+    <text x="22" y="142" fill="#ff00ff">&gt; Ing. Software + IA<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.33;.34;.92;1" dur="12s" repeatCount="indefinite"/></text>
+    <text x="22" y="170" fill="#39ff14">$ ls stack/<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.45;.46;.92;1" dur="12s" repeatCount="indefinite"/></text>
+    <text x="22" y="192" fill="#e2e8f0">&gt; PHP Laravel Kotlin Arduino<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.53;.54;.92;1" dur="12s" repeatCount="indefinite"/></text>
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.65;.66;.92;1" dur="12s" repeatCount="indefinite"/>
+      <text x="22" y="220" fill="#39ff14">$</text>
+      <rect x="38" y="208" width="9" height="15" fill="#39ff14"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+  <g clip-path="url(#scr)">
+    <rect x="10" y="38" width="340" height="192" fill="url(#scan)"/>
+    <rect x="10" y="0" width="340" height="30" fill="url(#bar)">
+      <animateTransform attributeName="transform" type="translate" values="0 20;0 230" dur="3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
