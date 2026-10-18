@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0e7490,100:c026d3&height=220&section=header&text=Edgar%20Jhosep%20Huiza&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Estudiante%20de%20Ingenier%C3%ADa%20de%20Software%20con%20IA&descAlignY=58&descSize=18" alt="Banner" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/Jhosep-Huiza/Jhosep-Huiza/main/assets/particles.svg" alt="Red de partículas neón animada" width="100%"/>
+<img src="https://raw.githubusercontent.com/Jhosep-Huiza/Jhosep-Huiza/main/particles.svg" alt="Red de partículas neón animada" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=640&lines=Hackea+tu+potencial;Desarrollador+Web+%26+M%C3%B3vil;Laravel+%7C+Kotlin+%7C+Python;Proyectos+IoT+con+Arduino;Code+the+future+%F0%9F%9A%80" alt="Typing SVG"/>
 
